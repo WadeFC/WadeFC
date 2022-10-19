@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WadeFC
-- 👀 I’m interested in ... BACK END WEB DEVELOPMENT/APP DEVELOPMENT
+- 👋 Hi, I’m Chimdiebele AKA WADE.
+- 👀 I’m interested in ... WEB DEVELOPMENT/APP DEVELOPMENT
 - 🌱 I’m currently learning ... JAVASCRIPT
 - 💞️ I’m looking to collaborate on ... WEB/APP RELATED PROJECTS
 - 📫 How to reach me ... +234 814 681 5792
