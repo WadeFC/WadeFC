@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chimdiebele AKA WADE.
 - 👀 I’m interested in ... WEB DEVELOPMENT/APP DEVELOPMENT
-- 🌱 With a good understanding of JAVASCRIPT , I’m currently learning REACT.JS & NEXT.JS.
+- 🌱 With a good understanding of JAVASCRIPT , I’m currently learning REACT.JS & VUE.JS
 - 💞️ I’m looking to collaborate on ... WEB/APP RELATED PROJECTS
 - 📫 How to reach me ... +234 814 681 5792
 Currently an Intern in https://www.tenece.com/
