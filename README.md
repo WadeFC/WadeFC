@@ -3,7 +3,7 @@
 - 🌱 With a good understanding of JAVASCRIPT , I’m currently learning REACT.JS & VUE.JS
 - 💞️ I’m looking to collaborate on ... WEB/APP RELATED PROJECTS
 - 📫 How to reach me ... +234 814 681 5792
-Currently an Intern in https://www.tenece.com/
+
 
 <!---
 WadeFC/WadeFC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
