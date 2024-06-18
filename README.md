@@ -3,11 +3,9 @@
 <h3 align="center">A passionate frontend developer from Earth🌏</h3>
 <img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/SYMObBlUJgEAAAAd/dog.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wadefc&label=Profile%20views&color=0e75b6&style=flat" alt="wadefc" /> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/obi-chijindu-faithful-37176823a/" target="blank"><img width="400" src="[https://img.shields.io/twitter/follow/chimdiebelef?logo=twitter&style=for-the-badge](https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png)" alt="chimdiebelef" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadefc" alt="wadefc" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chimdiebelef" target="blank"><img src="https://img.shields.io/twitter/follow/chimdiebelef?logo=twitter&style=for-the-badge" alt="chimdiebelef" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chimdiebelef" target="blank"><img width="400" src="[https://img.shields.io/twitter/follow/chimdiebelef?logo=twitter&style=for-the-badge](https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-512.png)" alt="chimdiebelef" /></a> </p>
 
 - 🔭 I’m currently working on **A Couple Next.js Projects and**
 
