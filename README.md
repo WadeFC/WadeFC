@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp))
 <h1 align="center">Hi 👋, I'm Obi Chijindu Chimdiebele Faithful</h1>
 <h3 align="center">A passionate frontend developer from Earth🌏</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/SYMObBlUJgEAAAAd/dog.gif">
+<img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/SYMObBlUJgEAAAAd/dog.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadefc&label=Profile%20views&color=0e75b6&style=flat" alt="wadefc" /> </p>
 
