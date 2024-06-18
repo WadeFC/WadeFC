@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 </head>
 <body>
     <a href="https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013" target="_blank">
-        <img width="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp" alt="Programming Banner" style="width: 100%; max-width: 600px; height: auto;">
+        <img width="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp" alt="Programming Banner" style="width: 100%; max-width: 400px; height: auto;">
     </a>
 </body>
 </html>
