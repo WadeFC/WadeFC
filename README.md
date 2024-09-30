@@ -18,7 +18,7 @@
 <h3 align="center">GO RAVENS , LAMARS THE REAL MVP🏈</h3>
 
 
-- 🔭 I’m currently working on **A Next.js Projects and ThreeJS, WebGL Project**
+- 🔭 I’m currently working on **A Next.js , ThreeJS and WebGL Project**
 
 - 🌱 I’m currently learning **Next.js and Redux**
 
