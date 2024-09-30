@@ -6,12 +6,17 @@
     
 </head>
 <body>
+    
+<center>
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F5emxvdW10aTN0ZWx0MWpxOGJ1dWxxZzVxaTdpbGVjZWI5ZjBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wEoH2LCtGvKV6IjzLT/giphy.gif" alt="Programming Banner" style="width:100%;height:0;padding-bottom:56%;position:relative;">
+</center>
     </a>
 </body>
 </html>
 <h1 align="center">Hi 👋, I'm Obi Chijindu Chimdiebele Faithful</h1>
 <h3 align="center">A passionate frontend developer from Earth🌏</h3>
+<h3 align="center">GO RAVENS , LAMARS THE REAL MVP🏈</h3>
+
 
 - 🔭 I’m currently working on **A Next.js Projects and ThreeJS, WebGL Project**
 
