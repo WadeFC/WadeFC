@@ -7,7 +7,7 @@
 </head>
 <body>
             <a href="https://giphy.com/embed/wEoH2LCtGvKV6IjzLT" target="_blank" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
-        <img width="20%" src="https://giphy.com/gifs/nfl-sports-football-sport-wEoH2LCtGvKV6IjzLT" alt="Programming Banner" style="width: 20%; max-width: 400px; height: auto;" background-color:white;>
+        <img width="20%" src="[https://giphy.com/gifs/nfl-sports-football-sport-wEoH2LCtGvKV6IjzLT](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F5emxvdW10aTN0ZWx0MWpxOGJ1dWxxZzVxaTdpbGVjZWI5ZjBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wEoH2LCtGvKV6IjzLT/giphy.gif)" alt="Programming Banner" style="width: 20%; max-width: 400px; height: auto;" background-color:white;>
     </a>
 </body>
 </html>
