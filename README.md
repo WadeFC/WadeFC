@@ -7,14 +7,13 @@
 </head>
 <body>
             <a href="https://giphy.com/embed/wEoH2LCtGvKV6IjzLT" target="_blank" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
-            <a href="https://giphy.com/gifs/nfl-sports-football-sport-wEoH2LCtGvKV6IjzLT" target="_blank" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
         <img width="20%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp" alt="Programming Banner" style="width: 20%; max-width: 400px; height: auto;" background-color:white;>
     </a>
 </body>
 </html>
 <h1 align="center">Hi 👋, I'm Obi Chijindu Chimdiebele Faithful</h1>
 <h3 align="center">A passionate frontend developer from Earth🌏</h3>
-<img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/SYMObBlUJgEAAAAd/dog.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/nfl-sports-football-sport-wEoH2LCtGvKV6IjzLT">
 
 - 🔭 I’m currently working on **A Couple Next.js Projects and**
 
