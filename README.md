@@ -6,9 +6,8 @@
     
 </head>
 <body>
-    <a href="https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
-            <a href="https://giphy.com/embed/wEoH2LCtGvKV6IjzLT" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
-            <a href="" target="_blank">
+            <a href="https://giphy.com/embed/wEoH2LCtGvKV6IjzLT" target="_blank" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
+            <a href="https://giphy.com/gifs/nfl-sports-football-sport-wEoH2LCtGvKV6IjzLT" target="_blank" target="_blank"  style="width:100%;height:0;padding-bottom:56%;position:relative;">
         <img width="20%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE4ZHQ0cGR3bTF1NHVkbGhkc2E3dHEwM3l6YXl0MjJjZzN4cWtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/co62TbJyuDwWVeXMfK/giphy.webp" alt="Programming Banner" style="width: 20%; max-width: 400px; height: auto;" background-color:white;>
     </a>
 </body>
